@@ -1,4 +1,14 @@
+# Output and input data
 screenshots/
-.DS_Store
+log/
+
+# Python
+venv/
+.venv/
 __pycache__/
 *.pyc
+
+# Secrets
+.env
+
+.DS_Store
